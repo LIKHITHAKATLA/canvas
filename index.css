@@ -570,7 +570,7 @@ li img{
     }
     
     .testcard1{
-        width: 80vw;
+        /* width: 80vw; */
         margin: 30px 0px;
     }
     .des{
